@@ -1,7 +1,7 @@
-# Proyectos de la clase
+# Laboratorios de la clase
 
-## 📘 Proyecto 1
-[Ver Notebook 1](notebook1.ipynb)
+## 📘 Laboratorio 1
+[Ver Notebook 1](LB1.ipynb)
 
-## 📗 Proyecto 2
-[Ver Notebook 2](notebook2.ipynb)
+## 📗 Laboratorio 2
+[Ver Notebook 2](LB2.ipynb)
