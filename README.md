@@ -4,4 +4,4 @@
 [Ver Notebook 1](LB1.ipynb)
 
 ## 📗 Laboratorio 2
-[Ver Notebook 2](LB2.ipynb)
+[Ver Notebook 2](LB2.ipynb)# Intro-a-datos
